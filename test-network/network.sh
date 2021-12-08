@@ -15,6 +15,7 @@
 export PATH=${PWD}/../bin:$PATH
 export FABRIC_CFG_PATH=${PWD}/configtx
 export VERBOSE=false
+export DOCKER_SOCK="${DOCKER_HOST:-/var/run/docker.sock}"
 
 . scripts/utils.sh
 
