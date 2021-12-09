@@ -36,12 +36,12 @@ node invokeMSP2.js
 ```
 Per fare richiesta di accesso a un paziente specifico:
 ```
-invokeRequestMSP2.js
+node invokeRequestMSP2.js
 ```
 Per fare una query e vedere tutti i pazienti visualizzabili da Org1 o Org2:
 ```
-queryMSP1.js
-queryMSP2.js
+node queryMSP1.js
+node queryMSP2.js
 ```
 
 Per entrare in CouchDB e visualizzare i pazienti, scrivere sul browser:
