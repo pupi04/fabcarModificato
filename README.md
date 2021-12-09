@@ -18,7 +18,7 @@ cd fabcar
 cd javascript
 
 ```
-Se è la prima volta, lanciare:
+Lanciare:
 ```
 npm install
 ```
