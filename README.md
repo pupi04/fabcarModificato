@@ -44,4 +44,10 @@ queryMSP1.js
 queryMSP2.js
 ```
 
+Per entrare in CouchDB e visualizzare i pazienti, scrivere sul browser:
+http://localhost:5984/_utils/#login
+
+Username: *admin*
+Password: *adminpw*
+
 
